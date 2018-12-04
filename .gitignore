@@ -1,0 +1,4 @@
+wp-content/themes/dimatech-template/frontend/node_modules
+*.log
+.idea
+wp-config.php
